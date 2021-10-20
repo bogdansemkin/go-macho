@@ -41,7 +41,3 @@ func main() {
     fmt.Println(m.FileTOC.String())
 }
 ```
-
-## License
-
-MIT Copyright (c) 2021 **blacktop**
