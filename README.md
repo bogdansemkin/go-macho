@@ -2,10 +2,6 @@
 # go-macho [WIP] 🚧
 
 
-> Package macho implements access to and creation of Mach-O object files.
-
----
-
 ## Why 🤔
 
 This package goes beyond the Go's `debug/macho` to:
