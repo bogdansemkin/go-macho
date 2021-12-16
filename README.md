@@ -18,7 +18,7 @@ This package goes beyond the Go's `debug/macho` to:
 ## Install
 
 ```bash
-$ go get github.com/blacktop/go-macho
+$ go get github.com/bogdansemkin/go-macho
 ```
 
 ## Getting Started
