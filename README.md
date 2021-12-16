@@ -1,7 +1,6 @@
 
 # go-macho [WIP] 🚧
 
-[![Go](https://github.com/bogdansemkin/go-macho/workflows/Go/badge.svg?branch=master)](https://github.com/bogdansemkin/go-macho/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/bogdansemkin/go-macho.svg)](https://pkg.go.dev/github.com/bogdansemkin/go-macho) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 > Package macho implements access to and creation of Mach-O object files.
 
