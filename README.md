@@ -1,7 +1,7 @@
 
 # go-macho [WIP] 🚧
 
-[![Go](https://github.com/blacktop/go-macho/workflows/Go/badge.svg?branch=master)](https://github.com/blacktop/go-macho/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/blacktop/go-macho.svg)](https://pkg.go.dev/github.com/blacktop/go-macho) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![Go](https://github.com/bogdansemkin/go-macho/workflows/Go/badge.svg?branch=master)](https://github.com/bogdansemkin/go-macho/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/bogdansemkin/go-macho.svg)](https://pkg.go.dev/github.com/bogdansemkin/go-macho) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 > Package macho implements access to and creation of Mach-O object files.
 
@@ -26,7 +26,7 @@ $ go get github.com/blacktop/go-macho
 ```go
 package main
 
-import "github.com/blacktop/go-macho"
+import "github.com/bogdansemkin/go-macho"
 
 func main() {
     f, err := os.Open("/path/to/macho")
